@@ -34,7 +34,7 @@
 </a>
 
 
-## 🔧 Reach out to me
+## Reach out to me
 
 
 <div style="display:inline-block;vertical-align:top;">
